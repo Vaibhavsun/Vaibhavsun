@@ -5,26 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=Vaibhavsun&label=Profile%20views&color=0e75b6&style=flat" alt="Vaibhavsun" />
 </p>
 
----
-
-### 💡 About Me
-
-- 🎓 B.Tech ECE @ IIIT Naya Raipur (CGPA: 9.29)
-- 🧠 Passionate about building intelligent systems using **Machine Learning**, **AI**, and **Signal Processing**
-- 🔬 Research Intern @ Samsung PRISM — Developed a multimodal brand classification pipeline using **LLaMA Vision** & **BERT**
-- 🛠 I love applying **mathematical thinking** in ML/AI systems, embedded electronics, and real-world problem solving
-
----
-
-### 🔬 Projects (ML + Embedded + AI)
-
-- 🗣️ **Voice Spoofing Detection** — Wav2Vec + Transformers model, 94% accuracy  
-- 🧪 **Blood Glucose Prediction from PPG Signals** — XGBoost + signal processing  
-- 👕 **Fashion Similarity Search Engine** — ResNet-based visual ranking + mobile Flutter app  
-- 🩸 **Blood Group Matching System** — Python + NLP + Firebase  
-- (More projects coming soon...)
-
----
 
 ### 🛠️ Languages & Tools
 
